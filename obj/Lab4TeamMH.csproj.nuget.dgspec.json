@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "G:\\homework 25\\Software engineering\\Lab4TeamMH\\Lab4TeamMH.csproj": {}
+    "C:\\Users\\npark\\Lab4TeamMH\\Lab4TeamMH.csproj": {}
   },
   "projects": {
-    "G:\\homework 25\\Software engineering\\Lab4TeamMH\\Lab4TeamMH.csproj": {
+    "C:\\Users\\npark\\Lab4TeamMH\\Lab4TeamMH.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\homework 25\\Software engineering\\Lab4TeamMH\\Lab4TeamMH.csproj",
+        "projectUniqueName": "C:\\Users\\npark\\Lab4TeamMH\\Lab4TeamMH.csproj",
         "projectName": "Lab4TeamMH",
-        "projectPath": "G:\\homework 25\\Software engineering\\Lab4TeamMH\\Lab4TeamMH.csproj",
-        "packagesPath": "C:\\Users\\scott.DESKTOP-OTF62A7\\.nuget\\packages\\",
-        "outputPath": "G:\\homework 25\\Software engineering\\Lab4TeamMH\\obj\\",
+        "projectPath": "C:\\Users\\npark\\Lab4TeamMH\\Lab4TeamMH.csproj",
+        "packagesPath": "C:\\Users\\npark\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\npark\\Lab4TeamMH\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\scott.DESKTOP-OTF62A7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\npark\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
